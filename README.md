@@ -11,3 +11,4 @@ Whether you're interested in recommendation systems, time series forecasting, or
 Feel free to explore the projects, contribute, and utilize the resources provided here to enhance your machine learning journey.
 
 1. [Handwritten Digit Classification](./handwritten_digit_classification/)
+2. [Next Frame Prediction](./next_frame_prediction//)
