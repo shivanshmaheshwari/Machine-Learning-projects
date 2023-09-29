@@ -51,6 +51,9 @@ The code is organized into several sections:
     - tensorflow
     - matplotlib
     - pandas
+## **Results:**
+![image](https://github.com/shivanshmaheshwari/Machine-Learning-projects/assets/78491674/5fe76697-0d75-42a8-a973-ee0775977b06)
+The visual representation above provides a snapshot of the project's key outcomes. The plot showcases the model's performance in single-step predictions on the climate dataset. The blue curve represents the historical data, offering insights into the patterns and trends leading up to the present. The red 'X' markers denote the true future values, providing a benchmark for evaluating the model's accuracy. The green dots represent the model's predictions, illustrating its ability to capture and forecast climate variables. The alignment between the red markers and green dots reflects the model's effectiveness in predicting future values. Overall, this visualization serves as a qualitative assessment of the LSTM model's proficiency in forecasting climate data.
 
 
 
