@@ -36,7 +36,7 @@ The code is organized into several sections:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shivanshmaheshwari/Machine-Learning-projects
+   git clone https://github.com/shivanshmaheshwari/Machine-Learning-projects/tree/main/weather%20prediction
    cd climate-data-analysis
     ```
 2. Run the Jupyter Notebook or Python script:
@@ -51,6 +51,7 @@ The code is organized into several sections:
     - tensorflow
     - matplotlib
     - pandas
+
 
 
 
