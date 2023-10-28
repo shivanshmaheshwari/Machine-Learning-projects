@@ -13,4 +13,4 @@ Feel free to explore the projects, contribute, and utilize the resources provide
 1. [Handwritten Digit Classification](./handwritten_digit_classification/)
 2. [Next Frame Prediction](./next_frame_prediction/)
 3. [Weather Prediction](./weather%20prediction/)
- 
+4. [Tweet classification](./tweet_classification/)
