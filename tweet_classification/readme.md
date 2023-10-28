@@ -18,7 +18,21 @@ Both models are compiled with metrics such as Accuracy, Recall, Precision, and A
 Model performance is visualized using training logs, and evaluation metrics are computed for both model_1 and model_2 on the validation set.
 
 ## Results
-The training logs and evaluation metrics are plotted and displayed for analysis. Additionally, a subset of the validation set is used to showcase individual predictions made by model_1.
+- **Model 1 Evaluation:**
+  - Loss: 0.0000
+  - Accuracy: 0.8055
+  - Recall: 0.7126
+  - Precision: 0.8378
+  - AUC: 0.8668
+
+- **Model 2 Evaluation:**
+  - Loss: 0.0000
+  - Accuracy: 0.5440
+  - Recall: 0.0029
+  - Precision: 1.0000
+  - AUC: 0.5026
+ 
+The training logs and evaluation metrics are plotted and displayed for analysis. Additionally, a subset of the validation set is used to showcase individual predictions made by model_1.The plotted graphs illustrate the dynamic relationship between the number of trees in the ensemble and the accuracy achieved by both Model 1 and Model 2 during training. On the y-axis, the accuracy metric is depicted, serving as a measure of the models' performance, while the x-axis showcases the progression of the number of trees used in the Gradient Boosted Trees models. The curves provide insights into how the models' accuracy evolves as the ensemble size grows, offering a visual representation of their learning process. These plots are crucial for understanding the trade-off between model complexity (as determined by the number of trees) and performance, helping to identify the point of optimal accuracy and potential indications of overfitting or underfitting in the training process.
 
 ## How to Use
 1. Install necessary libraries: `pandas`, `numpy`, `tensorflow`, `tensorflow_hub`, `tensorflow_decision_forests`, and `matplotlib`.
