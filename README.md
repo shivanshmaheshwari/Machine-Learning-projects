@@ -14,3 +14,4 @@ Feel free to explore the projects, contribute, and utilize the resources provide
 2. [Next Frame Prediction](./next_frame_prediction/)
 3. [Weather Prediction](./weather%20prediction/)
 4. [Tweet classification](./tweet_classification/)
+5. [Aspect Based Sentiment Analysis](./Aspect%20Based%20Sentiment%20Analysis/)
